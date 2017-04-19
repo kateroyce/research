@@ -1,0 +1,21 @@
+---
+title: "Preliminary research"
+author: "Kate Royce"
+date: "April 19, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+work goes here
+
+
+```{r, include=FALSE}
+write.bibtex(file = P("vignettes/references.bib"))
+```
+
+## References
+
+<div id="refs"></div>
