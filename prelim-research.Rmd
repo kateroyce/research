@@ -7,13 +7,17 @@ output: html_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(knitcitations)
+cite_options(citation_format = 'pandoc')
+P <- rprojroot::find_rstudio_root_file
 ```
 
-Test if changes go through to repo
+#Introduction
 
+`r citep('10.1093/ije/dyt092')` has information
 
 ```{r, include=FALSE}
-write.bibtex(file = P("vignettes/references.bib"))
+write.bibtex(file = P("references.bib"))
 ```
 
 ## References
