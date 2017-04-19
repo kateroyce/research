@@ -14,7 +14,17 @@ P <- rprojroot::find_rstudio_root_file
 
 #Introduction
 
-`r citep('10.1093/ije/dyt092')` has information
+### Time series
+
+A good introduction `r citep('10.1093/ije/dyt092')` has information about common time series tests in epidemiology, as well as sample code for the analyses they suggest.
+
+- Time series: a sequence of data points recorded at regular time intervals. Units are of time, such as days, and underlying population size doesn't matter because it won't change on a short timescale.
+
+- Short timescales are more likely to illuminate causal relationships because they exclude systematic patterns (such as seasons)
+
+### Chaos
+
+[This journal](http://www.cmsim.eu/) is all about chaotic modelling! (Note: this is probably also what edgy fashionistas have as their Twitter bio)
 
 ```{r, include=FALSE}
 write.bibtex(file = P("references.bib"))
