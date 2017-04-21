@@ -24,11 +24,16 @@ A good introduction `r citep('10.1093/ije/dyt092')` has information about common
 
 ### Chaos
 
+The avian influenza paper `r citep('10.1016/j.mbs.2013.09.001')` hints at chaos.
+
 [This journal](http://www.cmsim.eu/) is all about chaotic modelling! (Note: this is probably also what edgy fashionistas have as their Twitter bio)
 
-For some reasons my predecessors in Math 53 have written the first [search result](https://math.dartmouth.edu/archive/m53f09/public_html/proj/Jon_writeup.pdf) that comes up when one googles "chaos epidemiology"
+For some reasons my predecessors in Math 53 have written the first [search result](https://math.dartmouth.edu/archive/m53f09/public_html/proj/Jon_writeup.pdf) that comes up when one googles "chaos epidemiology".
 
-Dartmouth strikes again with Lorenz's paper `r citep('10.1175/jas3430.1')` on how to create chaotic models
+Dartmouth strikes again with Lorenz's paper `r citep('10.1175/jas3430.1')` on how to create chaotic models.
+
+
+And finally, it's funny that one of the foundational papers `r citep('10.2307/2318254')` dismisses epidemiology on the first page.
 
 ```{r, include=FALSE}
 write.bibtex(file = P("references.bib"))
