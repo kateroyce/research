@@ -26,6 +26,8 @@ A good introduction `r citep('10.1093/ije/dyt092')` has information about common
 
 The avian influenza paper `r citep('10.1016/j.mbs.2013.09.001')` hints at chaos.
 
+This introductory paper `r citep('10.1088/0143-0807/26/1/021')` explains how to find chaos in time series. Also check out `r citep('10.1088/0143-0807/26/4/003')`
+
 [This journal](http://www.cmsim.eu/) is all about chaotic modelling! (Note: this is probably also what edgy fashionistas have as their Twitter bio)
 
 For some reasons my predecessors in Math 53 have written the first [search result](https://math.dartmouth.edu/archive/m53f09/public_html/proj/Jon_writeup.pdf) that comes up when one googles "chaos epidemiology".
