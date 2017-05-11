@@ -14,6 +14,8 @@ P <- rprojroot::find_rstudio_root_file
 
 #Introduction
 
+https://www.researchgate.net/publication/276249503_Modeling_seasonality_in_avian_influenza_H5N1 has chaos (refs 38-41)!
+
 ###Implementing in R
 
 The packages tseriesChaos and TISEAN might help. ((1)[https://cran.r-project.org/web/packages/tseriesChaos/tseriesChaos.pdf], 2 `r citep (10.1063/1.166424)`)
